@@ -1,6 +1,6 @@
 import React from 'react'
 import './projects.css'
-import { programmer, provad, togglehead } from '../../assets'
+import { ecomerrce,provad, togglehead } from '../../assets'
 
 const Projects = () => {
   return (
@@ -41,7 +41,7 @@ const Projects = () => {
               </div>
               <div className="Project_Card">
                  <div className="project_card_main">
-                    <img src={programmer} alt="projectimage" />
+                    <img src={ecomerrce} alt="projectimage" />
                     <h3>Ecommerce website UI</h3>
                     <div className="techs">
                        <span>HTML</span>
