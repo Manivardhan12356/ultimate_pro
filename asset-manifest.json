@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/ultimate_pro/static/css/main.6723bdd3.css",
-    "main.js": "/ultimate_pro/static/js/main.941312d3.js",
+    "main.css": "/ultimate_pro/static/css/main.c04b965c.css",
+    "main.js": "/ultimate_pro/static/js/main.7a971e5e.js",
     "static/media/provad_task.png": "/ultimate_pro/static/media/provad_task.dd11bedf3a64489b8c0e.png",
     "static/media/ecommerce.png": "/ultimate_pro/static/media/ecommerce.4875a0630a801fd5db25.png",
     "static/media/togglehead.png": "/ultimate_pro/static/media/togglehead.1e24190a08a8cd9af42a.png",
     "static/media/programmer.jpg": "/ultimate_pro/static/media/programmer.d48563773d3fcc792377.jpg",
+    "static/media/cv_mani_vardhan.pdf": "/ultimate_pro/static/media/cv_mani_vardhan.5c34b4373c43e4a66d4d.pdf",
     "static/media/mani.jpg": "/ultimate_pro/static/media/mani.cc20f14fb861160390c5.jpg",
     "static/media/node.jpg": "/ultimate_pro/static/media/node.1c3823023c934b5bed3e.jpg",
     "static/media/redux.jpg": "/ultimate_pro/static/media/redux.15183af3b03342b0555b.jpg",
     "index.html": "/ultimate_pro/index.html",
-    "main.6723bdd3.css.map": "/ultimate_pro/static/css/main.6723bdd3.css.map",
-    "main.941312d3.js.map": "/ultimate_pro/static/js/main.941312d3.js.map"
+    "main.c04b965c.css.map": "/ultimate_pro/static/css/main.c04b965c.css.map",
+    "main.7a971e5e.js.map": "/ultimate_pro/static/js/main.7a971e5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6723bdd3.css",
-    "static/js/main.941312d3.js"
+    "static/css/main.c04b965c.css",
+    "static/js/main.7a971e5e.js"
   ]
 }
