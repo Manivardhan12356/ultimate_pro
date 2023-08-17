@@ -16,7 +16,8 @@ function App() {
       <Skills />
       <Experience />
       <Projects />
-       <ContactUs/>
+      <ContactUs />
+      <Navbar/>
     </div>
   );
 }
