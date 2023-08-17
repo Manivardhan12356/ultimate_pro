@@ -11,7 +11,7 @@ const Projects = () => {
               <div className="Project_Card">
                  <div className="project_card_main">
                     <img src={togglehead} alt="projectimage" />
-                    <h3>Project Name</h3>
+                    <h3>Togglehead assigment</h3>
                     <div className="techs">
                        <span>HTML</span>
                        <span>CSS</span>
@@ -27,7 +27,7 @@ const Projects = () => {
               <div className="Project_Card">
                  <div className="project_card_main">
                     <img src={provad} alt="projectimage" />
-                    <h3>Project Name</h3>
+                    <h3>Provad assigment</h3>
                     <div className="techs">
                        <span>HTML</span>
                        <span>CSS</span>
@@ -42,7 +42,7 @@ const Projects = () => {
               <div className="Project_Card">
                  <div className="project_card_main">
                     <img src={programmer} alt="projectimage" />
-                    <h3>Project Name</h3>
+                    <h3>Ecommerce website UI</h3>
                     <div className="techs">
                        <span>HTML</span>
                        <span>CSS</span>
