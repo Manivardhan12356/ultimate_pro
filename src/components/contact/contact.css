@@ -29,6 +29,7 @@
    display: flex;
    flex-direction: column;
    gap: 40px;
+   align-items: center;
 }
 
 .form_inputs label {
@@ -37,7 +38,15 @@
    color: rgb(158, 226, 158);
 }
 
-cccccccccc .form_inputs textarea {
+.form_inputs input {
+   height: 30px;
+   width: 500px;
+   border-radius: 10px;
+   outline: none;
+   padding: 10px;
+}
+
+.form_inputs textarea {
    width: 500px;
    height: 100px;
    border-radius: 10px;
@@ -53,14 +62,14 @@ cccccccccc .form_inputs textarea {
    background: rgb(158, 226, 158);
    font-size: 18px;
    transition: 0.3s ease-in-out;
-   cursor: pointer;
+      cursor: pointer;
 
 }
 
 .form_inputs2 input:hover {
    background: white;
 
-
+   
 
 }
 
@@ -71,16 +80,36 @@ cccccccccc .form_inputs textarea {
    }
 
    .form_inputs textarea {
-      width: 300px;
+   width: 300px;
+ 
+}
 
+.form_inputs input {
+   height: 30px;
+   width: 300px;
+   border-radius: 10px;
+   outline: none;
+   padding: 10px;
+}
+
+}
+@media (max-width: 390px) {
+   .contact_heading {
+      font-size: 30px;
+      line-height: 40px;
    }
 
-   .form_inputs input {
-      height: 30px;
-      width: 300px;
-      border-radius: 10px;
-      outline: none;
-      padding: 10px;
-   }
+   .form_inputs textarea {
+   width: 200px;
+ 
+}
+
+.form_inputs input {
+   height: 30px;
+   width: 200px;
+   border-radius: 10px;
+   outline: none;
+   padding: 10px;
+}
 
 }
