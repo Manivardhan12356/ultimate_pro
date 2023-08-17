@@ -61,11 +61,13 @@
    background: rgb(158, 226, 158);
    font-size: 18px;
    transition: 0.3s ease-in-out;
+      cursor: pointer;
 
 }
 
 .form_inputs2 input:hover {
    background: white;
+
    
 
 }
