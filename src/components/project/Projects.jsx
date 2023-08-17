@@ -46,9 +46,10 @@ const Projects = () => {
                     <div className="techs">
                        <span>HTML</span>
                        <span>CSS</span>
+                       <span>Javascript</span>
                     </div>
                     <div className="website_and_code">
-                       <a>VIEW PROJECT</a>
+                       <a href='https://nimble-alfajores-d4914d.netlify.app/'>VIEW PROJECT</a>
                        <a>VIEW CODE</a>
                     </div>
                  </div>
