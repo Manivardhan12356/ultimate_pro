@@ -6,6 +6,8 @@ import Header from "./components/header/Header";
 import Navbar from "./components/navbar/Navbar";
 import Projects from './components/project/Projects';
 import Skills from './components/skills/Skills';
+// import resume from '../../assets/image/cv_mani_vardhan.pdf'
+
 
 
 function App() {
