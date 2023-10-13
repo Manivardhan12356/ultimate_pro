@@ -17,6 +17,7 @@ body, html {
 body{
   display: flex;
   justify-content: center;
+  align-items: center;
   font-family: 'Space Grotesk', sans-serif;
    background: #1c2022;
    color: #FFFFFF;

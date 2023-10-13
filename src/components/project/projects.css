@@ -1,5 +1,6 @@
 .projects {
    padding: 40px 0;
+
 }
 
 .project_heading {
@@ -64,6 +65,10 @@
    border-bottom: 2px solid orange;
 }
 
+.project_main{
+   display: flex;
+   align-items: center;
+}
 
 @media (max-width:1100px) {
    .project_grid {
@@ -79,4 +84,19 @@
       font-size: 30px;
     line-height: 40px;
    }
+}
+
+
+@media (max-width:350px) {
+   .projects{
+   width:80%;
+   padding:0;
+   }
+
+   .project_card_main img {
+   width: 250px;
+   height: 300px;
+   object-fit: cover;
+   background-position: center;
+}
 }

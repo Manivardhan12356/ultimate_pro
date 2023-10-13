@@ -4,7 +4,7 @@ import { ecomerrce,provad, togglehead } from '../../assets'
 
 const Projects = () => {
   return (
-    <div>
+    <div className='project_main'>
         <section className='projects' data-aos="fade-up" data-aos-duration="1000">
            <h2 className='project_heading'>Projects</h2>
            <div className="project_grid">
